@@ -100,7 +100,7 @@ changes = np.diff(stock_prices, axis=0)  # Compare rows
 ---
 
 ## Getting Started  
-1. Open in [Google Colab](https://colab.research.google.com/drive/1FZ8dZ9Ik61Yf2VMVRTkWu787y61ZJHmj?usp=sharing) 
+1. Open in [Google Colab](https://colab.research.google.com/drive/1FZ8dZ9Ik61Yf2VMVRTkWu787y61ZJHmj?usp=sharing) or the [Kaggle Version](https://www.kaggle.com/code/deniskipeles/numpy-basics-for-begginers)
 2. Run cells sequentially  
 3. Experiment with parameters in examples  
 
